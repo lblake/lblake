@@ -9,10 +9,6 @@ I also have experience of working in cross functional teams and have excellent c
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=TreeHouse-WebDev-Project-2)](https://github.com/lblake/TreeHouse-WebDev-Project-2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=TreeHouse-WebDev-Project-3)](https://github.com/lblake/TreeHouse-WebDev-Project-3)
 
-<p align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
-</p>
 
 <!--
 Hi there 👋
