@@ -1,6 +1,6 @@
 ### About Me
 
-I'm a frontend developer who previously spent 15+ years working as a Senior QA Engineer, the last 3 years was spent working in test automation using Cypress & Detox.  Self-taught and progressed into web development where my QA and test automation skills have been an asset. Skilled in the use of web techologies such as (React,Javascript,HTML,CSS, Git and Jest) whilst also possessing strong interpersonal, problem-solving skills. 
+I'm a frontend developer who previously spent 15+ years working as a Senior QA Engineer, the last 3 years I worked in test automation using Cypress & Detox.  Self-taught and progressed into web development where my QA and test automation skills have been an asset. Skilled in the use of web techologies such as (React,Javascript,HTML,CSS, Git and Jest) whilst also possessing strong interpersonal, problem-solving skills. 
 I also have experience of working in cross functional teams and have excellent communication skills and work well with others at all levels.
 
 
