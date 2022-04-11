@@ -4,7 +4,7 @@ I am a dedicated and motivated Senior Automation QA Tester, with a wide range of
 on different platforms and technologies with a particular emphasis on web technologies such as React.
 I am experienced in manual and automation testing in an agile development life-cycle. 
 
-I've had an interest in front-end web development which I've pursed with self-taught projects where my QA and test automation skills have been an asset. Skilled in the use of technologies such as (React, Javascript, HTML,CSS, Git and Jest) whilst also possessing strong interpersonal, problem-solving skills. 
+I've had an interest in front-end web development which I've pursued with self-taught projects where my QA and test automation skills have been an asset. Skilled in the use of technologies such as (React, Javascript, HTML,CSS, Git and Jest) whilst also possessing strong interpersonal, problem-solving skills. 
 I also have experience of working in cross functional teams and have excellent communication skills and work well with others at all levels.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=Front-End-Projects)](https://github.com/lblake/Front-End-Projects) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=TreeHouse-WebDev-Project-1)](https://github.com/lblake/TreeHouse-WebDev-Project-1)
