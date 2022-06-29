@@ -6,7 +6,7 @@ I am experienced in manual and automation testing in an agile development life-c
 
 I also have strong interpersonal and problem-solving skills. With experience of working in cross functional teams and have excellent communication skills and work well with others at all levels.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=WonderBill-Technical-Assessment)](https://github.com/lblake/WonderBill-Technical-Assessment/tree/master) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=TreeHouse-WebDev-Project-1)](https://github.com/lblake/TreeHouse-WebDev-Project-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=WonderBill-Technical-Assessment)](https://github.com/lblake/WonderBill-Technical-Assessment/tree/master) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=LPG-Technical-Assessment)](https://github.com/lblake/LPG-Technical-Assessment)
 
 
 
