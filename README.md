@@ -10,7 +10,7 @@ I also have strong interpersonal and problem-solving skills. With experience of 
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=TreeHouse-WebDev-Project-2)](https://github.com/lblake/TreeHouse-WebDev-Project-2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=TreeHouse-WebDev-Project-3)](https://github.com/lblake/TreeHouse-WebDev-Project-3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=GAN-Technical-Assessment)](https://github.com/lblake/GAN-Technical-Assessment) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=TreeHouse-WebDev-Project-3)](https://github.com/lblake/TreeHouse-WebDev-Project-3)
 
 
 <!--
