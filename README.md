@@ -4,7 +4,7 @@ I am a dedicated and motivated Senior Automation QA Tester, with a wide range of
 on different platforms and technologies with a particular emphasis on web technologies such as React.
 I am experienced in manual and automation testing in an agile development life-cycle. 
 
-I also have strong interpersonal and problem-solving skills. With experience of working in cross functional teams and have excellent communication skills and work well with others at all levels.
+I also have strong interpersonal and problem-solving skills, with experience of working in cross functional teams. Finally I have excellent communication skills and work well with others at all levels.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=WonderBill-Technical-Assessment)](https://github.com/lblake/WonderBill-Technical-Assessment/tree/master) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=LPG-Technical-Assessment)](https://github.com/lblake/LPG-Technical-Assessment)
 
