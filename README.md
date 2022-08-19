@@ -2,7 +2,7 @@
 
 I am a dedicated and motivated Senior Automation QA Tester, with a wide range of experience testing
 on different platforms and technologies with a particular emphasis on web technologies such as React.
-I am experienced in manual and automation testing in an agile development life-cycle. 
+I am experienced in manual and automation testing in a variety of development life-cycles. 
 
 I also have strong interpersonal and problem-solving skills, with experience of working in cross functional teams. Finally I have excellent communication skills and work well with others at all levels.
 
