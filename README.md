@@ -1,11 +1,6 @@
 ### About Me
 
-I am a dedicated and motivated Senior Automation QA Tester, with a wide range of experience testing
-on different platforms and technologies with a particular emphasis on web technologies such as React.
-I am experienced in manual and automation testing in a variety of development life-cycles. 
-
-I also have strong interpersonal and problem-solving skills, with experience of working in cross functional teams. Finally I have excellent communication skills and work well with others at all levels.
-
+I am Frontend Web Developer who loves learning new technologies. I set myself a goal to gain an understanding of how React and it's related components work together. During this process I was mentored by a Senior Software Engineer from Cinch.co.uk, who helped me level up my technical skills, showing me different ways to resolve my issues, and how to write clean and modular code. I have created a number of projects from Frontend Mentor, and some set by my mentor. The end result was I gained a deeper understanding of how to create React apps and websites using web technologies such as CSS, JavaScript & React and I'm ready to take on new challenges. <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=WonderBill-Technical-Assessment)](https://github.com/lblake/WonderBill-Technical-Assessment/tree/master)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=LPG-Technical-Assessment)](https://github.com/lblake/LPG-Technical-Assessment/tree/master)
 
