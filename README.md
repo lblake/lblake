@@ -1,13 +1,6 @@
 ### About Me
 
 I am Frontend Web Developer who loves learning new technologies. I set myself a goal to gain an understanding of how React and it's related components work together. During this process I was mentored by a Senior Software Engineer from Cinch.co.uk, who helped me level up my technical skills, showing me different ways to resolve my issues, and how to write clean and modular code. I have also recently completed a  'full-stack'coding bootcamp by 'Northcoders: https://tinyurl.com/northcoders.  I have also created a number of projects from Frontend Mentor:https://www.frontendmentor.io/ . The end result is I've gained a deeper understanding of how to create React apps and websites using web technologies such as CSS, JavaScript & React and I'm ready to take on new challenges. <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=WonderBill-Technical-Assessment)](https://github.com/lblake/WonderBill-Technical-Assessment/tree/master)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=LPG-Technical-Assessment)](https://github.com/lblake/LPG-Technical-Assessment/tree/master)
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=GAN-Technical-Assessment)](https://github.com/lblake/GAN-Technical-Assessment) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lblake&repo=automation-testing-projects)](https://github.com/lblake/automation-testing-projects)
-
 
 <!--
 Hi there 👋
