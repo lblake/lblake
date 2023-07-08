@@ -1,6 +1,6 @@
 ### About Me
 
-I'm a dedicated Frontend Shopify Developer specializing in creating seamless online stores. With expertise in Shopify theme development, I excel at building visually stunning and user-friendly e-commerce experiences. I possess a solid understanding of the Shopify platform and its components, leveraging them to enhance Shopify themes with dynamic and interactive elements.
+I'm a dedicated Frontend Shopify Developer specializing in creating seamless online stores. With expertise in Shopify theme development, I excel at building visually stunning and user-friendly e-commerce experiences. I possess a solid understanding of Shopify Liquid and the Shopify platform and its components, leveraging them to enhance Shopify themes with dynamic and interactive elements.
 
 I recently completed the comprehensive FreeMote Freelance Shopify Developer Bootcamp offered by 'https://www.freemote.com/' I've also completed a 'Full-Stack Bootcamp' run by 'https://www.techreturners.com/' in collaboration with 'Northcoders' (https://northcoders.com/our-courses/coding-bootcamp), equipping me with a comprehensive set of skills including React, Typescript, Javascript etc.
 
