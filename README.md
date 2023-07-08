@@ -6,7 +6,7 @@ I recently completed the comprehensive FreeMote Freelance Shopify Developer Boot
 
 Active participation in Frontend Mentor (https://www.frontendmentor.io/) challenges has sharpened my knowledge of CSS, HTML and frontend development skills, enabling me to deliver exceptional user interfaces.
 
-I bring extensive experience in Shopify development, proficiency in React, and a diverse skill set acquired through the bootcamp(s) and self-learning. I'm actively seeking new projects to bring captivating online stores to life.
+I bring extensive experience in Shopify development, proficiency in React, and a diverse skill set acquired through the bootcamp(s) self-learning and over 10+ years in the IT industry. I'm actively seeking new projects to bring captivating online stores to life.
 
 Let's collaborate and create an impactful e-commerce presence!. <br>
 
