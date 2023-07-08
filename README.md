@@ -1,6 +1,14 @@
 ### About Me
 
-I am a Frontend Shopify Developer who loves learning new technologies. I set myself a goal to gain an understanding of how React and it's related components work together. During this process I was mentored by a Senior Software Engineer from Cinch.co.uk, who helped me level up my technical skills, showing me different ways to resolve my issues, and how to write clean and modular code. I have also recently completed a  'Full-Stack' coding bootcamp run by 'https://www.techreturners.com/' in partnership with 'Northcoders': https://northcoders.com/our-courses/coding-bootcamp  I have also created a number of projects from Frontend Mentor:https://www.frontendmentor.io/ . The end result is I've gained a deeper understanding of how to create React apps and websites using web technologies such as CSS, JavaScript & React and I'm ready to take on new challenges. <br>
+I'm a dedicated Frontend Shopify Developer specializing in creating seamless online stores. With expertise in Shopify theme development, I excel at building visually stunning and user-friendly e-commerce experiences. I possess a solid understanding of React and its components, leveraging them to enhance Shopify themes with dynamic and interactive elements.
+
+I recently completed the comprehensive FreeMote Freelance Developer Bootcamp offered by 'https://www.freemote.com/' I've also completed a 'Full-Stack Bootcamp' rum by 'https://www.techreturners.com/' in collaboration with 'Northcoders' (https://northcoders.com/our-courses/coding-bootcamp), equipping me with a comprehensive skill set for freelance success.
+
+Active participation in Frontend Mentor (https://www.frontendmentor.io/) has sharpened my knowledge of CSS, JavaScript, and React skills, enabling me to deliver exceptional user interfaces.
+
+I bring extensive experience in Shopify development, proficiency in React, and a diverse skill set acquired through the bootcamp(s). I'm actively seeking new projects to bring captivating online stores to life.
+
+Let's collaborate and create an impactful e-commerce presence!. <br>
 
 <!--
 Hi there 👋
