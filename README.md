@@ -1,11 +1,9 @@
-
+<base target="_blank">
 ### About Me
 <base target="_blank">
 I have expertise in creating visually stunning and user-friendly Shopify experiences. I recently completed a comprehensive Freelance Shopify Developer Bootcamp
 <a href="https://www.freemote.com/" target="_blank">Freemote</a>.  This bootcamp enabled me gain a deeper understanding of the Shopify ecosystem including enhancing Shopify themes with dynamic sections. I've also completed a 'Full-Stack Bootcamp' run by 
 <a href="https://www.techreturners.com/">Tech Returners</a> in collaboration with <a href="https://northcoders.com/our-courses/coding-bootcamp">Northcoders Coding Bootcamp</a>, equipping me with a broad range of skills including working as part of team, React, Typescript, Javascript, CSS, HTML etc. <br><br>
-
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 
 
 I also have a diverse skill set acquired through the bootcamp(s), self-learning & over 10+ years of IT experience working in various sectors. Finally the 
