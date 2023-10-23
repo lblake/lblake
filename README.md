@@ -7,7 +7,7 @@ I have expertise in creating visually stunning and user-friendly Shopify experie
 
 
 I also have a diverse skill set acquired through the bootcamp(s), self-learning & over 10+ years of IT experience working in various sectors. Finally the 
-<a href="https://lunatemplates.co/pages/shopify-course-for-designers">Design Freedom on Shopify</a> course has been a game-changer for me. With newfound proficiency in Figma & Adobe XD,I'm well-equipped to breathe life into any design on any Shopify theme. I am actively seeking new projects to bring captivating Shopify stores to life. Let's collaborate and create an impactful Shopify presence!
+<a href="https://lunatemplates.co/pages/shopify-course-for-designers">Design Freedom on Shopify</a> course has been a game-changer for me. With newfound proficiency in Figma & Adobe XD, I'm well-equipped to breathe life into any design on any Shopify theme. I am actively seeking new projects to bring captivating Shopify stores to life. Let's collaborate and create an impactful Shopify presence!
 
 <br>
 
