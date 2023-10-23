@@ -1,4 +1,4 @@
-<base target="_blank">
+
 ### About Me
 <base target="_blank">
 I have expertise in creating visually stunning and user-friendly Shopify experiences. I recently completed a comprehensive Freelance Shopify Developer Bootcamp
