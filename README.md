@@ -1,14 +1,10 @@
 ### About Me
 
-I'm a Freelance Shopify Frontend Developer specializing in creating seamless online stores. With expertise in Shopify theme development, I excel at building visually stunning and user-friendly e-commerce experiences. I possess a solid understanding of Shopify Liquid and the Shopify platform and its components, leveraging them to enhance Shopify themes with dynamic and interactive elements.
+I have expertise in creating visually stunning and user-friendly Shopify experiences. I recently completed a comprehensive FreeMote Freelance Shopify Developer Bootcamp ('https://www.freemote.com/).  This bootcamp enabled me gain a deeper understanding of the Shopify ecosystem. I've also completed a 'Full-Stack Bootcamp' run by ('https://www.techreturners.com/') in collaboration with 'Northcoders' (https://northcoders.com/our-courses/coding-bootcamp), equipping me with a broad set of skills including working as part of team, React, Typescript, Javascript, CSS, HTML etc.
 
-I recently completed a comprehensive FreeMote Freelance Shopify Developer Bootcamp ('https://www.freemote.com/).  This bootcamp enabled me gain a deeper understanding of the Shopify ecosystem. I've also completed a 'Full-Stack Bootcamp' run by ('https://www.techreturners.com/') in collaboration with 'Northcoders' (https://northcoders.com/our-courses/coding-bootcamp), equipping me with a broad set of skills including working as part of team, React, Typescript, Javascript, CSS, HTML etc.
+I also have a diverse skill set acquired through the bootcamp(s), self-learning & over 10+ years of IT experience working in various sectors. Finally the Design Freedom on Shopify ('https://lunatemplates.co/pages/shopify-course-for-designers') course has been a game-changer for me. With newfound proficiency in Figma & Adobe XD, I'm well-equipped to breathe life into any design on any Shopify theme. I am actively seeking new projects to bring captivating Shopify stores to life. Let's collaborate and create an impactful Shopify presence!.
 
-Participation in Frontend Mentor (https://www.frontendmentor.io/) challenges has sharpened my frontend development skills, enabling me to deliver exceptional user interfaces.
-
-Finally I bring extensive experience in Shopify development, a diverse skill set acquired through the bootcamp(s), self-learning and over 10+ years of IT experience. I'm actively seeking new projects to bring captivating online stores to life.
-
-Let's collaborate and create an impactful e-commerce presence!. <br>
+<br>
 
 <!--
 Hi there 👋
