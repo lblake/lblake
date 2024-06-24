@@ -1,7 +1,7 @@
 
 ### About Me
 <base target="_blank">
-Hello my name is Lloyd.  I’m a website developer who specialises in developing high converting websites & landing pages for individuals and local businesses. I have a wide range of skills including Webflow, Javascript, CSS, React, Shopify and HTML.
+I’m a website developer who specialises in developing high converting websites & landing pages for individuals and local businesses. I have a wide range of skills including Webflow, Javascript, CSS, React, Shopify and HTML.
 
 Using these skills I'll create visually stunning and highly functional website tailored to your needs.  
 
