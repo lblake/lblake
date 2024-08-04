@@ -1,10 +1,8 @@
 
 ### About Me
 <base target="_blank">
-I’m a website developer who specialises in developing high converting websites & landing pages for individuals and local businesses. I have a wide range of skills including Webflow, Javascript, CSS, React, Shopify and HTML.
-
-Using these skills I'll create visually stunning and highly functional website tailored to your needs.  
-
+Former Senior QA Tester turned Webflow developer. Enjoys creating amazing websites. Building apps using Webflow, Wized and Xano.  
+  
 <br>
 
 
