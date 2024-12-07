@@ -1,7 +1,25 @@
 
 ### About Me
 <base target="_blank">
-Former Senior QA Tester turned Webflow developer. Enjoys creating amazing websites. Building apps using Webflow, Wized and Xano.  
+
+---
+
+
+🌐 Webflow & Shopify Developer | Expert in Custom Websites & E-commerce Solutions | Frontend Specialist  
+
+ 
+I specialize in translating figma designs into fully functional websites and e-commerce experiences. With expertise in **Webflow development**, **Shopify theme customization**, and **frontend technologies**, I deliver visually stunning and performance-optimized solutions.  
+
+💡 My approach is a blend of creativity and technical precision, ensuring every project meets client goals and enhances user experience.  
+
+🛠️ **Key Skills:**  
+- Webflow: Custom animations, responsive design, Client-First methodology.  
+- Shopify: Theme development,customizations, and third-party app integrations.  
+- Frontend: React, HTML, CSS, JavaScript.  
+
+---
+
+
   
 <br>
 
