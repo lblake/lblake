@@ -5,7 +5,7 @@
 ---
 
 
-🌐 Certified Shopify Developer | Expert in Custom Websites & E-commerce Solutions | Frontend Specialist  
+🌐 Shopify Developer | Expert in Custom Websites & E-commerce Solutions | Frontend Specialist  
 
  
 I specialize in translating figma designs into fully functional websites and e-commerce experiences. With expertise in **Shopify theme customization**, **website  development**,  using **frontend technologies**, I deliver visually stunning and performance-optimized solutions.  
